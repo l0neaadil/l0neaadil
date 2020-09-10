@@ -49,11 +49,11 @@ Here are some ideas to get you started:
         <img height="200px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  width="100%">
       </td>
       <td width="20%" align="center">
-        <span><strong>Learning_CCNA</strong></span><br><br><br>
+        <span><strong>CCNA</strong></span><br><br><br>
         <img height="200px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%">
       </td>
       <td width="20%" align="center">
-        <span><strong>Learning_Javascript</strong></span><br><br><br>
+        <span><strong>JavaScript</strong></span><br><br><br>
         <img height="200px" src="https://cdn.svgporn.com/logos/javascript.svg" width="100%">
       </td>
       </tbody>
