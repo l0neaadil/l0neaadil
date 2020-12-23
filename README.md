@@ -37,6 +37,10 @@ Here are some ideas to get you started:
         <span><strong>PYTHON</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
+      <td width="20%" align="center">
+        <span><strong>JavaScript</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
       </tbody>
 </table>
 <br>
@@ -53,10 +57,6 @@ Here are some ideas to get you started:
       <td width="20%" align="center">
         <span><strong>CCNA</strong></span><br><br><br>
         <img height="200px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>JavaScript</strong></span><br><br><br>
-        <img height="200px" src="https://cdn.svgporn.com/logos/javascript.svg" width="100%">
       </td>
       </tbody>
 </table>
