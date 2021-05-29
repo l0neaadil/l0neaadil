@@ -22,6 +22,10 @@ Here are some ideas to get you started:
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
+        <span><strong>PYTHON</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="20%" align="center">
         <span><strong>HTML</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
@@ -32,10 +36,6 @@ Here are some ideas to get you started:
       <td width="20%" align="center">
         <span><strong>C</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>PYTHON</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
@@ -51,12 +51,12 @@ Here are some ideas to get you started:
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span><strong>Security+</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%">
+        <span><strong>CCNA</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/Zx1KzuQBR8wIbrm81t/giphy.gif" width="100%">
       </td>
       <td width="20%" align="center">
-        <span><strong>CCNA</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/skqsmAzGjZZpS/giphy.gif" width="100%">
+        <span><strong>Security+</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%">
       </td>
       </tbody>
 </table>
