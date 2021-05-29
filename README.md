@@ -51,12 +51,12 @@ Here are some ideas to get you started:
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span><strong>More_Coding</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  width="100%">
+        <span><strong>Security+</strong></span><br><br><br>
+        <img height="200px" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.giff"  width="100%">
       </td>
       <td width="20%" align="center">
         <span><strong>CCNA</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%">
+        <img height="200px" src="https://media.giphy.com/media/skqsmAzGjZZpS/giphy.gif" width="100%">
       </td>
       </tbody>
 </table>
