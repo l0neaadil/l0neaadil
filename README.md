@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>Security+</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.giff"  width="100%">
+        <img height="200px" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%">
       </td>
       <td width="20%" align="center">
         <span><strong>CCNA</strong></span><br><br><br>
