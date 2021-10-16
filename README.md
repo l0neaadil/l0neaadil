@@ -54,6 +54,10 @@ Here are some ideas to get you started:
         <span><strong>Wireshark</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg">
       </td>
+      <td width="30%" align="center">
+        <span><strong>Burp Suite</strong></span><br><br><br>
+        <img height="64px" src="https://jacobriggs.io/tools/app/web/upload/large/3_eedab2dbcde47a63f847af0a612d1f8d.png">
+      </td>
       </tbody>
 </table>
 <br>
