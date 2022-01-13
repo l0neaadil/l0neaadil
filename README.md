@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Education:
 🎓 B.E. in Electronics and Communication.
-## Skills:
+## Languages:
 
 <table>
   <tbody>
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## Currently Focussing On:
+## Courses:
 
 <table>
   <tbody>
